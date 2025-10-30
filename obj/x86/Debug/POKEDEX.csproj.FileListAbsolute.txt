@@ -1,0 +1,790 @@
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\bin\x86\Debug\App.xbf
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\bin\x86\Debug\MainPage.xbf
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\bin\x86\Debug\POKEDEX.xr.xml
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\bin\x86\Debug\POKEDEX.exe
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\bin\x86\Debug\POKEDEX.pdb
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\bin\x86\Debug\resources.pri
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\bin\x86\Debug\AppxManifest.xml
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\bin\x86\Debug\Core\POKEDEX.exe
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\bin\x86\Debug\POKEDEX.build.appxrecipe
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\bin\x86\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\bin\x86\Debug\WebView2Loader.dll
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\bin\x86\Debug\System.Runtime.dll
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\bin\x86\Debug\Microsoft.Web.WebView2.Core.winmd
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\POKEDEX.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\App.g.i.cs
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\App.g.cs
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\MainPage.g.cs
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\App.xaml
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\MainPage.xaml
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\App.xbf
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\MainPage.xbf
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\POKEDEX.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\POKEDEX.csproj.CopyComplete
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\POKEDEX.exe
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\POKEDEX.pdb
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\priconfig.xml
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\resources.resfiles
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\pri.resfiles
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\qualifiers.txt
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638316334480000000.json
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\.winmd_cache\$Microsoft.Web.WebView2.Core.winmd_637920505780000000.json
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\bin\x86\Debug\Info.xbf
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\Info.g.i.cs
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\Info.g.cs
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\Info.xaml
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\Info.xbf
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\bin\x86\Debug\Principal.xbf
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\Principal.g.i.cs
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\Principal.g.cs
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\Principal.xaml
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\Principal.xbf
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\bin\x86\Debug\Ajustes.xbf
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\Ajustes.g.i.cs
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\Ajustes.g.cs
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\Ajustes.xaml
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\Ajustes.xbf
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\Prueba.g.i.cs
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\Prueba.g.cs
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\ToxicroackJPG.g.i.cs
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\ToxicroackJPG.g.cs
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\Prueba.xaml
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\ToxicroackJPG.xaml
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\Prueba.xbf
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\ToxicroackJPG.xbf
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\bin\x86\Debug\Prueba.xbf
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\bin\x86\Debug\ToxicroackJPG.xbf
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\bin\x86\Debug\Combate.xbf
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\Combate.g.i.cs
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\Combate.g.cs
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\Combate.xaml
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\Combate.xbf
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\bin\x86\Debug\Pokedex.xbf
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\Pokedex.g.i.cs
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\Pokedex.g.cs
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\Pokedex.xaml
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\Pokedex.xbf
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\bin\x86\Debug\ButterFreeACC.xbf
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\bin\x86\Debug\DragoniteCSD.xbf
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\ButterFreeACC.g.i.cs
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\ButterFreeACC.g.cs
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\DragoniteCSD.g.i.cs
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\DragoniteCSD.g.cs
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\ButterFreeACC.xaml
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\DragoniteCSD.xaml
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\ButterFreeACC.xbf
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\DragoniteCSD.xbf
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\Seleccion.g.i.cs
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\Seleccion.g.cs
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\Seleccion.xaml
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\Seleccion.xbf
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\bin\x86\Debug\Seleccion.xbf
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\bin\x86\Debug\CombatePOK.xbf
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\CombatePOK.g.i.cs
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\CombatePOK.g.cs
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\CombatePOK.xaml
+C:\Users\carlo\Desktop\Universidad\3º\2do Cuatri\IPO II\Laboratorio\POKEDEX\POKEDEX\obj\x86\Debug\CombatePOK.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\bin\x86\Debug\App.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\bin\x86\Debug\Ajustes.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\bin\x86\Debug\ButterFreeACC.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\bin\x86\Debug\Combate.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\bin\x86\Debug\CombatePOK.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\bin\x86\Debug\DragoniteCSD.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\bin\x86\Debug\Info.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\bin\x86\Debug\MainPage.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\bin\x86\Debug\Pokedex.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\bin\x86\Debug\Principal.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\bin\x86\Debug\Prueba.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\bin\x86\Debug\Seleccion.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\bin\x86\Debug\ToxicroackJPG.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\bin\x86\Debug\POKEDEX.xr.xml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\bin\x86\Debug\POKEDEX.exe
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\bin\x86\Debug\POKEDEX.pdb
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\bin\x86\Debug\resources.pri
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\bin\x86\Debug\AppxManifest.xml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\bin\x86\Debug\Core\AppxManifest.xml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\bin\x86\Debug\Core\POKEDEX.exe
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\bin\x86\Debug\POKEDEX.build.appxrecipe
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\bin\x86\Debug\Microsoft.Web.WebView2.Core.dll
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\bin\x86\Debug\WebView2Loader.dll
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\bin\x86\Debug\System.Runtime.dll
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\bin\x86\Debug\Microsoft.Web.WebView2.Core.winmd
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\POKEDEX.csproj.AssemblyReference.cache
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\App.g.i.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\App.g.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\Ajustes.g.i.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\Ajustes.g.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\ButterFreeACC.g.i.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\ButterFreeACC.g.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\Combate.g.i.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\Combate.g.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\CombatePOK.g.i.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\CombatePOK.g.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\DragoniteCSD.g.i.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\DragoniteCSD.g.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\Info.g.i.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\Info.g.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\MainPage.g.i.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\MainPage.g.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\Pokedex.g.i.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\Pokedex.g.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\Principal.g.i.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\Principal.g.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\Prueba.g.i.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\Prueba.g.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\Seleccion.g.i.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\Seleccion.g.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\ToxicroackJPG.g.i.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\ToxicroackJPG.g.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\App.xaml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\Ajustes.xaml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\ButterFreeACC.xaml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\Combate.xaml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\CombatePOK.xaml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\DragoniteCSD.xaml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\Info.xaml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\MainPage.xaml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\Pokedex.xaml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\Principal.xaml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\Prueba.xaml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\Seleccion.xaml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\ToxicroackJPG.xaml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\App.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\Ajustes.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\ButterFreeACC.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\Combate.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\CombatePOK.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\DragoniteCSD.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\Info.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\MainPage.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\Pokedex.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\Principal.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\Prueba.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\Seleccion.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\ToxicroackJPG.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\XamlSaveStateFile.xml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\POKEDEX.csproj.CoreCompileInputs.cache
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\POKEDEX.csproj.Up2Date
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\POKEDEX.exe
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\POKEDEX.pdb
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\ResourceHandlingTask.state
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\priconfig.xml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\priconfig.xml.intermediate
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\unfiltered.layout.resfiles
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\filtered.layout.resfiles
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\excluded.layout.resfiles
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\resources.resfiles
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\resources.resfiles.intermediate
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\pri.resfiles
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\pri.resfiles.intermediate
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\qualifiers.txt
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\qualifiers.txt.intermediate
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\ProjectArchitectures.txt
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638316334480000000.json
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\Proyecto_Carlos\POKEDEX\POKEDEX\obj\x86\Debug\.winmd_cache\$Microsoft.Web.WebView2.Core.winmd_637920505780000000.json
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\bin\x86\Debug\App.xbf
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\bin\x86\Debug\Ajustes.xbf
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\bin\x86\Debug\Butterfree.xbf
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\bin\x86\Debug\Combate.xbf
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\bin\x86\Debug\CombatePOK.xbf
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\bin\x86\Debug\Dragonite.xbf
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\bin\x86\Debug\Info.xbf
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\bin\x86\Debug\MainPage.xbf
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\bin\x86\Debug\Pokedex.xbf
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\bin\x86\Debug\Principal.xbf
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\bin\x86\Debug\Prueba.xbf
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\bin\x86\Debug\Seleccion.xbf
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\bin\x86\Debug\Toxicroack.xbf
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\bin\x86\Debug\POKEDEX.xr.xml
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\bin\x86\Debug\POKEDEX.exe
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\bin\x86\Debug\POKEDEX.pdb
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\bin\x86\Debug\resources.pri
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\bin\x86\Debug\AppxManifest.xml
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\bin\x86\Debug\Core\POKEDEX.exe
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\bin\x86\Debug\POKEDEX.build.appxrecipe
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\bin\x86\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\bin\x86\Debug\WebView2Loader.dll
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\bin\x86\Debug\System.Runtime.dll
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\bin\x86\Debug\Microsoft.Web.WebView2.Core.winmd
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\POKEDEX.csproj.AssemblyReference.cache
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\App.g.i.cs
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\App.g.cs
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Ajustes.g.i.cs
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Ajustes.g.cs
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Butterfree.g.i.cs
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Butterfree.g.cs
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Combate.g.i.cs
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Combate.g.cs
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\CombatePOK.g.i.cs
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\CombatePOK.g.cs
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Dragonite.g.i.cs
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Dragonite.g.cs
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Info.g.i.cs
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Info.g.cs
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\MainPage.g.cs
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Pokedex.g.i.cs
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Pokedex.g.cs
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Principal.g.i.cs
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Principal.g.cs
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Prueba.g.i.cs
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Prueba.g.cs
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Seleccion.g.i.cs
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Seleccion.g.cs
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Toxicroack.g.i.cs
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Toxicroack.g.cs
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\App.xaml
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Ajustes.xaml
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Butterfree.xaml
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Combate.xaml
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\CombatePOK.xaml
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Dragonite.xaml
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Info.xaml
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\MainPage.xaml
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Pokedex.xaml
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Principal.xaml
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Prueba.xaml
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Seleccion.xaml
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Toxicroack.xaml
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\App.xbf
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Ajustes.xbf
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Butterfree.xbf
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Combate.xbf
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\CombatePOK.xbf
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Dragonite.xbf
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Info.xbf
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\MainPage.xbf
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Pokedex.xbf
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Principal.xbf
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Prueba.xbf
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Seleccion.xbf
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Toxicroack.xbf
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\POKEDEX.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\POKEDEX.csproj.CopyComplete
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\POKEDEX.exe
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\POKEDEX.pdb
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\priconfig.xml
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\resources.resfiles
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\pri.resfiles
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\qualifiers.txt
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638316334480000000.json
+C:\Users\carlo\Downloads\ActualizadoSinAdri_20.50\ActualizadoSinAdri_20.50\POKEDEX\POKEDEX\obj\x86\Debug\.winmd_cache\$Microsoft.Web.WebView2.Core.winmd_637920505780000000.json
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\App.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Ajustes.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\ButterFreeACC.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Combate.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\CombateIA.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\CombatePOK.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Dragonite.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Info.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\MainPage.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Pokedex.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Principal.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Prueba.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Seleccion.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Toxicroack.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\POKEDEX.xr.xml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\POKEDEX.exe
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\POKEDEX.pdb
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\resources.pri
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\AppxManifest.xml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Core\AppxManifest.xml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Core\POKEDEX.exe
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\POKEDEX.build.appxrecipe
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Microsoft.Web.WebView2.Core.dll
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\WebView2Loader.dll
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\System.Runtime.dll
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Microsoft.Web.WebView2.Core.winmd
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\POKEDEX.csproj.AssemblyReference.cache
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\App.g.i.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\App.g.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Ajustes.g.i.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Ajustes.g.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\ButterFreeACC.g.i.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\ButterFreeACC.g.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Combate.g.i.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Combate.g.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\CombateIA.g.i.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\CombateIA.g.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\CombatePOK.g.i.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\CombatePOK.g.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Dragonite.g.i.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Dragonite.g.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Info.g.i.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Info.g.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\MainPage.g.i.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\MainPage.g.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Pokedex.g.i.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Pokedex.g.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Principal.g.i.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Principal.g.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Prueba.g.i.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Prueba.g.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Seleccion.g.i.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Seleccion.g.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Toxicroack.g.i.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Toxicroack.g.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\App.xaml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Ajustes.xaml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\ButterFreeACC.xaml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Combate.xaml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\CombateIA.xaml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\CombatePOK.xaml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Dragonite.xaml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Info.xaml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\MainPage.xaml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Pokedex.xaml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Principal.xaml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Prueba.xaml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Seleccion.xaml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Toxicroack.xaml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\App.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Ajustes.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\ButterFreeACC.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Combate.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\CombateIA.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\CombatePOK.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Dragonite.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Info.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\MainPage.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Pokedex.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Principal.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Prueba.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Seleccion.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Toxicroack.xbf
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\XamlSaveStateFile.xml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\POKEDEX.csproj.CoreCompileInputs.cache
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\POKEDEX.csproj.Up2Date
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\POKEDEX.exe
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\POKEDEX.pdb
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\ResourceHandlingTask.state
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\priconfig.xml
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\priconfig.xml.intermediate
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\unfiltered.layout.resfiles
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\filtered.layout.resfiles
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\excluded.layout.resfiles
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\resources.resfiles
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\resources.resfiles.intermediate
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\pri.resfiles
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\pri.resfiles.intermediate
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\qualifiers.txt
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\qualifiers.txt.intermediate
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\ProjectArchitectures.txt
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638316334480000000.json
+D:\UCLM\3º\2º Cuatri\Ipo II\Laboratorio II\POKEDEX\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\.winmd_cache\$Microsoft.Web.WebView2.Core.winmd_637920505780000000.json
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\App.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\Ajustes.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\ButterFreeACC.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\Combate.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\CombateIA.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\CombatePOK.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\Dragonite.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\Info.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\MainPage.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\Pokedex.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\Principal.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\Prueba.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\Seleccion.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\Toxicroack.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\POKEDEX.xr.xml
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\POKEDEX.exe
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\POKEDEX.pdb
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\resources.pri
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\AppxManifest.xml
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\Core\POKEDEX.exe
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\POKEDEX.build.appxrecipe
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\WebView2Loader.dll
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\System.Runtime.dll
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\Microsoft.Web.WebView2.Core.winmd
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\POKEDEX.csproj.AssemblyReference.cache
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\App.g.i.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\App.g.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Ajustes.g.i.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Ajustes.g.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\ButterFreeACC.g.i.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\ButterFreeACC.g.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Combate.g.i.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Combate.g.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\CombateIA.g.i.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\CombateIA.g.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\CombatePOK.g.i.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\CombatePOK.g.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Dragonite.g.i.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Dragonite.g.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Info.g.i.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Info.g.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\MainPage.g.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Pokedex.g.i.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Pokedex.g.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Principal.g.i.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Principal.g.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Prueba.g.i.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Prueba.g.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Seleccion.g.i.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Seleccion.g.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Toxicroack.g.i.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Toxicroack.g.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\App.xaml
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Ajustes.xaml
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\ButterFreeACC.xaml
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Combate.xaml
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\CombateIA.xaml
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\CombatePOK.xaml
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Dragonite.xaml
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Info.xaml
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\MainPage.xaml
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Pokedex.xaml
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Principal.xaml
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Prueba.xaml
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Seleccion.xaml
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Toxicroack.xaml
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\App.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Ajustes.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\ButterFreeACC.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Combate.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\CombateIA.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\CombatePOK.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Dragonite.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Info.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\MainPage.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Pokedex.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Principal.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Prueba.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Seleccion.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Toxicroack.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\POKEDEX.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\POKEDEX.csproj.CopyComplete
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\POKEDEX.exe
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\POKEDEX.pdb
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\priconfig.xml
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\resources.resfiles
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\pri.resfiles
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\qualifiers.txt
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638316334480000000.json
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\.winmd_cache\$Microsoft.Web.WebView2.Core.winmd_637920505780000000.json
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Articuno.g.i.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Articuno.g.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Charizard.g.i.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Charizard.g.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Garchomp.g.i.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Garchomp.g.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Gengar.g.i.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Gengar.g.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Grookey.g.i.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Grookey.g.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Lapras.g.i.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Lapras.g.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Piplup.g.i.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Piplup.g.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Snorlax.g.i.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Snorlax.g.cs
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Articuno.xaml
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Charizard.xaml
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Garchomp.xaml
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Gengar.xaml
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Grookey.xaml
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Lapras.xaml
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Piplup.xaml
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Snorlax.xaml
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Articuno.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Charizard.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Garchomp.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Gengar.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Grookey.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Lapras.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Piplup.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\obj\x86\Debug\Snorlax.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\Articuno.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\Charizard.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\Garchomp.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\Gengar.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\Grookey.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\Lapras.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\Piplup.xbf
+C:\Users\carlo\Downloads\POKEDEX 2\POKEDEX\POKEDEX\bin\x86\Debug\Snorlax.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\App.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Ajustes.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Articuno.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\ArticunoPokedex.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\ButterFreeACC.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\ButterFreePokedex.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Charizard.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\CharizardPokedex.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Combate.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\CombateIA.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\CombatePOK.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Dragonite.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\DragonitePokedex.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Garchomp.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\GarchompPokedex.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Gengar.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\GengarPokedex.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Grookey.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\GrookeyPokedex.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Info.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Lapras.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\LaprasPokedex.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Lucario.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\LucarioPokedex.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\MainPage.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Piplup.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\PipplupPokedex.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Pokedex.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Principal.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Prueba.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Seleccion.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Snorlax.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\SnorlaxPokedex.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Toxicroack.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\ToxycroacPokedex.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\POKEDEX.xr.xml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\POKEDEX.exe
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\POKEDEX.pdb
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\resources.pri
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\AppxManifest.xml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Core\POKEDEX.exe
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\POKEDEX.build.appxrecipe
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\WebView2Loader.dll
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\System.Runtime.dll
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Microsoft.Web.WebView2.Core.winmd
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\POKEDEX.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\App.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\App.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Ajustes.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Ajustes.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Articuno.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Articuno.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\ArticunoPokedex.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\ArticunoPokedex.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\ButterFreeACC.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\ButterFreeACC.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\ButterFreePokedex.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\ButterFreePokedex.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Charizard.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Charizard.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\CharizardPokedex.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\CharizardPokedex.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Combate.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Combate.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\CombateIA.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\CombateIA.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\CombatePOK.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\CombatePOK.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Dragonite.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Dragonite.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\DragonitePokedex.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\DragonitePokedex.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Garchomp.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Garchomp.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\GarchompPokedex.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\GarchompPokedex.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Gengar.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Gengar.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\GengarPokedex.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\GengarPokedex.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Grookey.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Grookey.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\GrookeyPokedex.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\GrookeyPokedex.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Info.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Info.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Lapras.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Lapras.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\LaprasPokedex.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\LaprasPokedex.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Lucario.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Lucario.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\LucarioPokedex.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\LucarioPokedex.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\MainPage.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Piplup.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Piplup.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\PipplupPokedex.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\PipplupPokedex.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Pokedex.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Pokedex.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Principal.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Principal.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Prueba.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Prueba.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Seleccion.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Seleccion.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Snorlax.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Snorlax.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\SnorlaxPokedex.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\SnorlaxPokedex.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Toxicroack.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Toxicroack.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\ToxycroacPokedex.g.i.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\ToxycroacPokedex.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\App.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Ajustes.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Articuno.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\ArticunoPokedex.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\ButterFreeACC.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\ButterFreePokedex.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Charizard.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\CharizardPokedex.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Combate.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\CombateIA.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\CombatePOK.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Dragonite.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\DragonitePokedex.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Garchomp.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\GarchompPokedex.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Gengar.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\GengarPokedex.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Grookey.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\GrookeyPokedex.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Info.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Lapras.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\LaprasPokedex.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Lucario.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\LucarioPokedex.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\MainPage.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Piplup.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\PipplupPokedex.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Pokedex.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Principal.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Prueba.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Seleccion.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Snorlax.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\SnorlaxPokedex.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Toxicroack.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\ToxycroacPokedex.xaml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\App.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Ajustes.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Articuno.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\ArticunoPokedex.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\ButterFreeACC.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\ButterFreePokedex.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Charizard.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\CharizardPokedex.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Combate.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\CombateIA.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\CombatePOK.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Dragonite.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\DragonitePokedex.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Garchomp.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\GarchompPokedex.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Gengar.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\GengarPokedex.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Grookey.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\GrookeyPokedex.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Info.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Lapras.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\LaprasPokedex.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Lucario.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\LucarioPokedex.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\MainPage.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Piplup.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\PipplupPokedex.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Pokedex.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Principal.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Prueba.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Seleccion.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Snorlax.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\SnorlaxPokedex.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Toxicroack.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\ToxycroacPokedex.xbf
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\POKEDEX.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\POKEDEX.csproj.Up2Date
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\POKEDEX.exe
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\POKEDEX.pdb
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\priconfig.xml
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\resources.resfiles
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\pri.resfiles
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\qualifiers.txt
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638441419520000000.json
+C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\.winmd_cache\$Microsoft.Web.WebView2.Core.winmd_637920505780000000.json

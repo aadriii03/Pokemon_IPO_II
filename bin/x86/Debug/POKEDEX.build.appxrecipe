@@ -1,0 +1,1465 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-CR8QH37</Machine>
+    <WindowsUser>usuario</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>7b27be9e-327d-43e2-8b1d-3a5294c85059</PackageIdentityName>
+    <PackageIdentityPublisher>CN=carlo</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\POKEDEX.exe">
+      <PackagePath>entrypoint\POKEDEX.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\.nuget\packages\microsoft.web.webview2\1.0.1264.42\build\..\runtimes\win-x86\native_uap\Microsoft.Web.WebView2.Core.dll">
+      <PackagePath>Microsoft.Web.WebView2.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\.nuget\packages\microsoft.web.webview2\1.0.1264.42\runtimes\win-x86\native\WebView2Loader.dll">
+      <PackagePath>WebView2Loader.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.14\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.22621.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+      <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\.nuget\packages\microsoft.web.webview2\1.0.1264.42\lib\Microsoft.Web.WebView2.Core.winmd">
+      <PackagePath>Microsoft.Web.WebView2.Core.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\Dragonite.png">
+      <PackagePath>Assets+Toxicroack+incial\Dragonite.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\Imagenes\Agujero.png">
+      <PackagePath>Assets+Toxicroack+incial\Imagenes\Agujero.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\Imagenes\Bostezo.png">
+      <PackagePath>Assets+Toxicroack+incial\Imagenes\Bostezo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\Imagenes\Burbujas.png">
+      <PackagePath>Assets+Toxicroack+incial\Imagenes\Burbujas.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\Imagenes\Calavera.png">
+      <PackagePath>Assets+Toxicroack+incial\Imagenes\Calavera.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\Imagenes\Corazon.png">
+      <PackagePath>Assets+Toxicroack+incial\Imagenes\Corazon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\Imagenes\Dormir.png">
+      <PackagePath>Assets+Toxicroack+incial\Imagenes\Dormir.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\Imagenes\Energi.png">
+      <PackagePath>Assets+Toxicroack+incial\Imagenes\Energi.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\Imagenes\Escudo.png">
+      <PackagePath>Assets+Toxicroack+incial\Imagenes\Escudo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\Imagenes\herida_1.png">
+      <PackagePath>Assets+Toxicroack+incial\Imagenes\herida_1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\Imagenes\Herida_2.png">
+      <PackagePath>Assets+Toxicroack+incial\Imagenes\Herida_2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\Imagenes\Herida_3.png">
+      <PackagePath>Assets+Toxicroack+incial\Imagenes\Herida_3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\Imagenes\muerto.png">
+      <PackagePath>Assets+Toxicroack+incial\Imagenes\muerto.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\Imagenes\nubes moradas.png">
+      <PackagePath>Assets+Toxicroack+incial\Imagenes\nubes moradas.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\Imagenes\NubesOscuras.png">
+      <PackagePath>Assets+Toxicroack+incial\Imagenes\NubesOscuras.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\Imagenes\Planta.png">
+      <PackagePath>Assets+Toxicroack+incial\Imagenes\Planta.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\Imagenes\Planta_2.png">
+      <PackagePath>Assets+Toxicroack+incial\Imagenes\Planta_2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\Imagenes\Pocima_Energia-removebg-preview.png">
+      <PackagePath>Assets+Toxicroack+incial\Imagenes\Pocima_Energia-removebg-preview.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\Imagenes\Pocima_Vida-removebg-preview.png">
+      <PackagePath>Assets+Toxicroack+incial\Imagenes\Pocima_Vida-removebg-preview.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\Imagenes\Venom.png">
+      <PackagePath>Assets+Toxicroack+incial\Imagenes\Venom.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets+Toxicroack+incial\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\SplashScreen.scale-200.png">
+      <PackagePath>Assets+Toxicroack+incial\SplashScreen.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets+Toxicroack+incial\Square150x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets+Toxicroack+incial\Square44x44Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets+Toxicroack+incial\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\StoreLogo.png">
+      <PackagePath>Assets+Toxicroack+incial\StoreLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets+Toxicroack+incial\Wide310x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsArticunoACG\corazonVida.png">
+      <PackagePath>AssetsArticunoACG\corazonVida.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsArticunoACG\energia.png">
+      <PackagePath>AssetsArticunoACG\energia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsArticunoACG\fondoPokemon1.png">
+      <PackagePath>AssetsArticunoACG\fondoPokemon1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsArticunoACG\LockScreenLogo.scale-200.png">
+      <PackagePath>AssetsArticunoACG\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsArticunoACG\pocimaEnergia.png">
+      <PackagePath>AssetsArticunoACG\pocimaEnergia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsArticunoACG\pocimaVida.png">
+      <PackagePath>AssetsArticunoACG\pocimaVida.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsArticunoACG\SplashScreen.scale-200.png">
+      <PackagePath>AssetsArticunoACG\SplashScreen.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsArticunoACG\Square150x150Logo.scale-200.png">
+      <PackagePath>AssetsArticunoACG\Square150x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsArticunoACG\Square44x44Logo.scale-200.png">
+      <PackagePath>AssetsArticunoACG\Square44x44Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsArticunoACG\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>AssetsArticunoACG\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsArticunoACG\StoreLogo.png">
+      <PackagePath>AssetsArticunoACG\StoreLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsArticunoACG\Wide310x150Logo.scale-200.png">
+      <PackagePath>AssetsArticunoACG\Wide310x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\AssetsButterFreeACC\brillo.png">
+      <PackagePath>AssetsButterFreeACC\AssetsButterFreeACC\brillo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\AssetsButterFreeACC\capullo.png">
+      <PackagePath>AssetsButterFreeACC\AssetsButterFreeACC\capullo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\AssetsButterFreeACC\cicatrizGrande.png">
+      <PackagePath>AssetsButterFreeACC\AssetsButterFreeACC\cicatrizGrande.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\AssetsButterFreeACC\energia.png">
+      <PackagePath>AssetsButterFreeACC\AssetsButterFreeACC\energia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\AssetsButterFreeACC\escudo.png">
+      <PackagePath>AssetsButterFreeACC\AssetsButterFreeACC\escudo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\AssetsButterFreeACC\LockScreenLogo.scale-200.png">
+      <PackagePath>AssetsButterFreeACC\AssetsButterFreeACC\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\AssetsButterFreeACC\nube.png">
+      <PackagePath>AssetsButterFreeACC\AssetsButterFreeACC\nube.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\AssetsButterFreeACC\ojos_muerte.png">
+      <PackagePath>AssetsButterFreeACC\AssetsButterFreeACC\ojos_muerte.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\AssetsButterFreeACC\pocima_energia.png">
+      <PackagePath>AssetsButterFreeACC\AssetsButterFreeACC\pocima_energia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\AssetsButterFreeACC\pocima_vida.png">
+      <PackagePath>AssetsButterFreeACC\AssetsButterFreeACC\pocima_vida.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\AssetsButterFreeACC\SplashScreen.scale-200.png">
+      <PackagePath>AssetsButterFreeACC\AssetsButterFreeACC\SplashScreen.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\AssetsButterFreeACC\Square150x150Logo.scale-200.png">
+      <PackagePath>AssetsButterFreeACC\AssetsButterFreeACC\Square150x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\AssetsButterFreeACC\Square44x44Logo.scale-200.png">
+      <PackagePath>AssetsButterFreeACC\AssetsButterFreeACC\Square44x44Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\AssetsButterFreeACC\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>AssetsButterFreeACC\AssetsButterFreeACC\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\AssetsButterFreeACC\StoreLogo.png">
+      <PackagePath>AssetsButterFreeACC\AssetsButterFreeACC\StoreLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\AssetsButterFreeACC\tirita.png">
+      <PackagePath>AssetsButterFreeACC\AssetsButterFreeACC\tirita.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\AssetsButterFreeACC\tronado.png">
+      <PackagePath>AssetsButterFreeACC\AssetsButterFreeACC\tronado.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\AssetsButterFreeACC\vida.png">
+      <PackagePath>AssetsButterFreeACC\AssetsButterFreeACC\vida.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\AssetsButterFreeACC\Wide310x150Logo.scale-200.png">
+      <PackagePath>AssetsButterFreeACC\AssetsButterFreeACC\Wide310x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\brillo.png">
+      <PackagePath>AssetsButterFreeACC\brillo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\capullo.png">
+      <PackagePath>AssetsButterFreeACC\capullo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\cicatrizGrande.png">
+      <PackagePath>AssetsButterFreeACC\cicatrizGrande.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\energia.png">
+      <PackagePath>AssetsButterFreeACC\energia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\escudo.png">
+      <PackagePath>AssetsButterFreeACC\escudo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\LockScreenLogo.scale-200.png">
+      <PackagePath>AssetsButterFreeACC\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\nube.png">
+      <PackagePath>AssetsButterFreeACC\nube.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\ojos_muerte.png">
+      <PackagePath>AssetsButterFreeACC\ojos_muerte.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\pocima_energia.png">
+      <PackagePath>AssetsButterFreeACC\pocima_energia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\pocima_vida.png">
+      <PackagePath>AssetsButterFreeACC\pocima_vida.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\SplashScreen.scale-200.png">
+      <PackagePath>AssetsButterFreeACC\SplashScreen.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\Square150x150Logo.scale-200.png">
+      <PackagePath>AssetsButterFreeACC\Square150x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\Square44x44Logo.scale-200.png">
+      <PackagePath>AssetsButterFreeACC\Square44x44Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>AssetsButterFreeACC\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\StoreLogo.png">
+      <PackagePath>AssetsButterFreeACC\StoreLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\tirita.png">
+      <PackagePath>AssetsButterFreeACC\tirita.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\tronado.png">
+      <PackagePath>AssetsButterFreeACC\tronado.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\vida.png">
+      <PackagePath>AssetsButterFreeACC\vida.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\Wide310x150Logo.scale-200.png">
+      <PackagePath>AssetsButterFreeACC\Wide310x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\angel.png">
+      <PackagePath>AssetsDragoniteCSD\angel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\arañazo.png">
+      <PackagePath>AssetsDragoniteCSD\arañazo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\colazo.png">
+      <PackagePath>AssetsDragoniteCSD\colazo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\escudoesfera.png">
+      <PackagePath>AssetsDragoniteCSD\escudoesfera.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\escudoReal.png">
+      <PackagePath>AssetsDragoniteCSD\escudoReal.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\explosion.png">
+      <PackagePath>AssetsDragoniteCSD\explosion.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\herido.png">
+      <PackagePath>AssetsDragoniteCSD\herido.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\humoenfado.png">
+      <PackagePath>AssetsDragoniteCSD\humoenfado.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\img_meteorito.png">
+      <PackagePath>AssetsDragoniteCSD\img_meteorito.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\img_stamina.png">
+      <PackagePath>AssetsDragoniteCSD\img_stamina.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\LockScreenLogo.scale-200.png">
+      <PackagePath>AssetsDragoniteCSD\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\muerto.png">
+      <PackagePath>AssetsDragoniteCSD\muerto.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\oxigeno.png">
+      <PackagePath>AssetsDragoniteCSD\oxigeno.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\pocionstamina.png">
+      <PackagePath>AssetsDragoniteCSD\pocionstamina.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\pocionvida.png">
+      <PackagePath>AssetsDragoniteCSD\pocionvida.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\recuperarenergiavida.png">
+      <PackagePath>AssetsDragoniteCSD\recuperarenergiavida.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\SplashScreen.scale-200.png">
+      <PackagePath>AssetsDragoniteCSD\SplashScreen.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\Square150x150Logo.scale-200.png">
+      <PackagePath>AssetsDragoniteCSD\Square150x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\Square44x44Logo.scale-200.png">
+      <PackagePath>AssetsDragoniteCSD\Square44x44Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>AssetsDragoniteCSD\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\stamina.png">
+      <PackagePath>AssetsDragoniteCSD\stamina.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\StoreLogo.png">
+      <PackagePath>AssetsDragoniteCSD\StoreLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\sudor.png">
+      <PackagePath>AssetsDragoniteCSD\sudor.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\termometro.png">
+      <PackagePath>AssetsDragoniteCSD\termometro.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\Vidapokemon2.png">
+      <PackagePath>AssetsDragoniteCSD\Vidapokemon2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\Wide310x150Logo.scale-200.png">
+      <PackagePath>AssetsDragoniteCSD\Wide310x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGarchompVFJD\445.png">
+      <PackagePath>AssetsGarchompVFJD\445.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGarchompVFJD\bolaescudo.png">
+      <PackagePath>AssetsGarchompVFJD\bolaescudo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGarchompVFJD\bolaFuego-removebg-preview.png">
+      <PackagePath>AssetsGarchompVFJD\bolaFuego-removebg-preview.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGarchompVFJD\circuloescudo-removebg-preview.png">
+      <PackagePath>AssetsGarchompVFJD\circuloescudo-removebg-preview.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGarchompVFJD\descarga %282%29.png">
+      <PackagePath>AssetsGarchompVFJD\descarga %282%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGarchompVFJD\efectosEnergia.png">
+      <PackagePath>AssetsGarchompVFJD\efectosEnergia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGarchompVFJD\efectosVida.png">
+      <PackagePath>AssetsGarchompVFJD\efectosVida.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGarchompVFJD\escudo.png">
+      <PackagePath>AssetsGarchompVFJD\escudo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGarchompVFJD\escudoazul-removebg-preview.png">
+      <PackagePath>AssetsGarchompVFJD\escudoazul-removebg-preview.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGarchompVFJD\forest.png">
+      <PackagePath>AssetsGarchompVFJD\forest.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGarchompVFJD\heart-png.png">
+      <PackagePath>AssetsGarchompVFJD\heart-png.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGarchompVFJD\icono_vida.png">
+      <PackagePath>AssetsGarchompVFJD\icono_vida.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGarchompVFJD\LockScreenLogo.scale-200.png">
+      <PackagePath>AssetsGarchompVFJD\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGarchompVFJD\pocionEnergiaTomando.png">
+      <PackagePath>AssetsGarchompVFJD\pocionEnergiaTomando.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGarchompVFJD\pocionVidaTomando.png">
+      <PackagePath>AssetsGarchompVFJD\pocionVidaTomando.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGarchompVFJD\pocion_energia.png">
+      <PackagePath>AssetsGarchompVFJD\pocion_energia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGarchompVFJD\pocion_vida.png">
+      <PackagePath>AssetsGarchompVFJD\pocion_vida.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGarchompVFJD\pokemon.png">
+      <PackagePath>AssetsGarchompVFJD\pokemon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGarchompVFJD\raio.png">
+      <PackagePath>AssetsGarchompVFJD\raio.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGarchompVFJD\SplashScreen.scale-200.png">
+      <PackagePath>AssetsGarchompVFJD\SplashScreen.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGarchompVFJD\Square150x150Logo.scale-200.png">
+      <PackagePath>AssetsGarchompVFJD\Square150x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGarchompVFJD\Square44x44Logo.scale-200.png">
+      <PackagePath>AssetsGarchompVFJD\Square44x44Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGarchompVFJD\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>AssetsGarchompVFJD\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGarchompVFJD\StoreLogo.png">
+      <PackagePath>AssetsGarchompVFJD\StoreLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGarchompVFJD\sueño-removebg-preview.png">
+      <PackagePath>AssetsGarchompVFJD\sueño-removebg-preview.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGarchompVFJD\Wide310x150Logo.scale-200.png">
+      <PackagePath>AssetsGarchompVFJD\Wide310x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGarchompVFJD\zarpazo-removebg-preview.png">
+      <PackagePath>AssetsGarchompVFJD\zarpazo-removebg-preview.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGengarJCC\corazon.png">
+      <PackagePath>AssetsGengarJCC\corazon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGengarJCC\energia.png">
+      <PackagePath>AssetsGengarJCC\energia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGengarJCC\LockScreenLogo.scale-200.png">
+      <PackagePath>AssetsGengarJCC\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGengarJCC\pocion.png">
+      <PackagePath>AssetsGengarJCC\pocion.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGengarJCC\pocionEnergia.png">
+      <PackagePath>AssetsGengarJCC\pocionEnergia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGengarJCC\SplashScreen.png">
+      <PackagePath>AssetsGengarJCC\SplashScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGengarJCC\Square150x150Logo.scale-200.png">
+      <PackagePath>AssetsGengarJCC\Square150x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGengarJCC\Square44x44Logo.scale-200.png">
+      <PackagePath>AssetsGengarJCC\Square44x44Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGengarJCC\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>AssetsGengarJCC\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGengarJCC\StoreLogo.png">
+      <PackagePath>AssetsGengarJCC\StoreLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGengarJCC\Wide310x150Logo.scale-200.png">
+      <PackagePath>AssetsGengarJCC\Wide310x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGrookeyJGMP\Corazon.png">
+      <PackagePath>AssetsGrookeyJGMP\Corazon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGrookeyJGMP\LockScreenLogo.scale-200.png">
+      <PackagePath>AssetsGrookeyJGMP\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGrookeyJGMP\PocionEnergia.png">
+      <PackagePath>AssetsGrookeyJGMP\PocionEnergia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGrookeyJGMP\PocionVida.png">
+      <PackagePath>AssetsGrookeyJGMP\PocionVida.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGrookeyJGMP\Power.png">
+      <PackagePath>AssetsGrookeyJGMP\Power.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGrookeyJGMP\SplashScreen.scale-200.png">
+      <PackagePath>AssetsGrookeyJGMP\SplashScreen.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGrookeyJGMP\Square150x150Logo.scale-200.png">
+      <PackagePath>AssetsGrookeyJGMP\Square150x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGrookeyJGMP\Square44x44Logo.scale-200.png">
+      <PackagePath>AssetsGrookeyJGMP\Square44x44Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGrookeyJGMP\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>AssetsGrookeyJGMP\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGrookeyJGMP\StoreLogo.png">
+      <PackagePath>AssetsGrookeyJGMP\StoreLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGrookeyJGMP\Wide310x150Logo.scale-200.png">
+      <PackagePath>AssetsGrookeyJGMP\Wide310x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\LockScreenLogo.scale-200.png">
+      <PackagePath>AssetsLaprasACE\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\SplashScreen.scale-200.png">
+      <PackagePath>AssetsLaprasACE\SplashScreen.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\Square150x150Logo.scale-200.png">
+      <PackagePath>AssetsLaprasACE\Square150x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\Square44x44Logo.scale-200.png">
+      <PackagePath>AssetsLaprasACE\Square44x44Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>AssetsLaprasACE\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\StoreLogo.png">
+      <PackagePath>AssetsLaprasACE\StoreLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\UI_Pokemon\almohada2.png">
+      <PackagePath>AssetsLaprasACE\UI_Pokemon\almohada2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\UI_Pokemon\brillo.png">
+      <PackagePath>AssetsLaprasACE\UI_Pokemon\brillo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\UI_Pokemon\bubble.png">
+      <PackagePath>AssetsLaprasACE\UI_Pokemon\bubble.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\UI_Pokemon\destello.png">
+      <PackagePath>AssetsLaprasACE\UI_Pokemon\destello.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\UI_Pokemon\escudo.png">
+      <PackagePath>AssetsLaprasACE\UI_Pokemon\escudo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\UI_Pokemon\heart.png">
+      <PackagePath>AssetsLaprasACE\UI_Pokemon\heart.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\UI_Pokemon\heart_potion.png">
+      <PackagePath>AssetsLaprasACE\UI_Pokemon\heart_potion.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\UI_Pokemon\moraton.png">
+      <PackagePath>AssetsLaprasACE\UI_Pokemon\moraton.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\UI_Pokemon\shield.png">
+      <PackagePath>AssetsLaprasACE\UI_Pokemon\shield.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\UI_Pokemon\shield_potion.png">
+      <PackagePath>AssetsLaprasACE\UI_Pokemon\shield_potion.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\UI_Pokemon\sudor.png">
+      <PackagePath>AssetsLaprasACE\UI_Pokemon\sudor.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\UI_Pokemon\tirita.png">
+      <PackagePath>AssetsLaprasACE\UI_Pokemon\tirita.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\UI_Pokemon\tumba3.png">
+      <PackagePath>AssetsLaprasACE\UI_Pokemon\tumba3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\Wide310x150Logo.scale-200.png">
+      <PackagePath>AssetsLaprasACE\Wide310x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLucarioGAC\AuraSphere.png">
+      <PackagePath>AssetsLucarioGAC\AuraSphere.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLucarioGAC\BattleShild.png">
+      <PackagePath>AssetsLucarioGAC\BattleShild.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLucarioGAC\Defeated.png">
+      <PackagePath>AssetsLucarioGAC\Defeated.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLucarioGAC\Defeated2.png">
+      <PackagePath>AssetsLucarioGAC\Defeated2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLucarioGAC\Energy.png">
+      <PackagePath>AssetsLucarioGAC\Energy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLucarioGAC\EnergyPotion.png">
+      <PackagePath>AssetsLucarioGAC\EnergyPotion.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLucarioGAC\HealthPotion.png">
+      <PackagePath>AssetsLucarioGAC\HealthPotion.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLucarioGAC\Heart.png">
+      <PackagePath>AssetsLucarioGAC\Heart.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLucarioGAC\Hurt.png">
+      <PackagePath>AssetsLucarioGAC\Hurt.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLucarioGAC\Hurt2.png">
+      <PackagePath>AssetsLucarioGAC\Hurt2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLucarioGAC\LockScreenLogo.scale-200.png">
+      <PackagePath>AssetsLucarioGAC\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLucarioGAC\Pokemon.png">
+      <PackagePath>AssetsLucarioGAC\Pokemon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLucarioGAC\Reversal.png">
+      <PackagePath>AssetsLucarioGAC\Reversal.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLucarioGAC\Reversal2.png">
+      <PackagePath>AssetsLucarioGAC\Reversal2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLucarioGAC\SplashScreen.scale-200.png">
+      <PackagePath>AssetsLucarioGAC\SplashScreen.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLucarioGAC\Square150x150Logo.scale-200.png">
+      <PackagePath>AssetsLucarioGAC\Square150x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLucarioGAC\Square44x44Logo.scale-200.png">
+      <PackagePath>AssetsLucarioGAC\Square44x44Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLucarioGAC\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>AssetsLucarioGAC\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLucarioGAC\StoreLogo.png">
+      <PackagePath>AssetsLucarioGAC\StoreLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLucarioGAC\Wide310x150Logo.scale-200.png">
+      <PackagePath>AssetsLucarioGAC\Wide310x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\alma.png">
+      <PackagePath>AssetsPiplupMLTN\alma.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\bocadillo.png">
+      <PackagePath>AssetsPiplupMLTN\bocadillo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\bola_rayo_sin_fondo.png">
+      <PackagePath>AssetsPiplupMLTN\bola_rayo_sin_fondo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\burbujas.png">
+      <PackagePath>AssetsPiplupMLTN\burbujas.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\carambano.png">
+      <PackagePath>AssetsPiplupMLTN\carambano.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\copo_de_nieve_sin_fondo.png">
+      <PackagePath>AssetsPiplupMLTN\copo_de_nieve_sin_fondo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\corazon_sin_fondo.png">
+      <PackagePath>AssetsPiplupMLTN\corazon_sin_fondo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\cruz.png">
+      <PackagePath>AssetsPiplupMLTN\cruz.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\cubito_de_hielo_sin_fondo.png">
+      <PackagePath>AssetsPiplupMLTN\cubito_de_hielo_sin_fondo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\destello_sin_fondo.png">
+      <PackagePath>AssetsPiplupMLTN\destello_sin_fondo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\energia_sin_fondo.png">
+      <PackagePath>AssetsPiplupMLTN\energia_sin_fondo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\escudo_de_hielo_sin_fondo.png">
+      <PackagePath>AssetsPiplupMLTN\escudo_de_hielo_sin_fondo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\espiral_sin_fondo.png">
+      <PackagePath>AssetsPiplupMLTN\espiral_sin_fondo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\FondoFinal.png">
+      <PackagePath>AssetsPiplupMLTN\FondoFinal.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\gota_sin_fondo.png">
+      <PackagePath>AssetsPiplupMLTN\gota_sin_fondo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\herida1.png">
+      <PackagePath>AssetsPiplupMLTN\herida1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\lloro.png">
+      <PackagePath>AssetsPiplupMLTN\lloro.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\LockScreenLogo.scale-200.png">
+      <PackagePath>AssetsPiplupMLTN\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\ojeras_sin_fondo.png">
+      <PackagePath>AssetsPiplupMLTN\ojeras_sin_fondo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\ola.png">
+      <PackagePath>AssetsPiplupMLTN\ola.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\pocion_amarilla_sin_fondo.png">
+      <PackagePath>AssetsPiplupMLTN\pocion_amarilla_sin_fondo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\pocion_roja_sin_fondo.png">
+      <PackagePath>AssetsPiplupMLTN\pocion_roja_sin_fondo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\rayo_burbuja_sin_fondo.png">
+      <PackagePath>AssetsPiplupMLTN\rayo_burbuja_sin_fondo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\SplashScreen.scale-200.png">
+      <PackagePath>AssetsPiplupMLTN\SplashScreen.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\Square150x150Logo.scale-200.png">
+      <PackagePath>AssetsPiplupMLTN\Square150x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\Square44x44Logo.scale-200.png">
+      <PackagePath>AssetsPiplupMLTN\Square44x44Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>AssetsPiplupMLTN\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\StoreLogo.png">
+      <PackagePath>AssetsPiplupMLTN\StoreLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\tabla_surf.png">
+      <PackagePath>AssetsPiplupMLTN\tabla_surf.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\Wide310x150Logo.scale-200.png">
+      <PackagePath>AssetsPiplupMLTN\Wide310x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\fondopokedexcal.png">
+      <PackagePath>Assets\fondopokedexcal.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\fondo_des.png">
+      <PackagePath>Assets\fondo_des.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\fondo_principal.png">
+      <PackagePath>Assets\fondo_principal.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\fotoadri.png">
+      <PackagePath>Assets\fotoadri.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\IA.png">
+      <PackagePath>Assets\IA.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\Imagenes\aron.png">
+      <PackagePath>Assets\Imagenes\aron.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\Imagenes\articuno.png">
+      <PackagePath>Assets\Imagenes\articuno.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\Imagenes\butterfreeP.png">
+      <PackagePath>Assets\Imagenes\butterfreeP.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\Imagenes\charizard.png">
+      <PackagePath>Assets\Imagenes\charizard.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\Imagenes\dragonite.png">
+      <PackagePath>Assets\Imagenes\dragonite.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\Imagenes\Garchomp.png">
+      <PackagePath>Assets\Imagenes\Garchomp.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\Imagenes\Gengar.png">
+      <PackagePath>Assets\Imagenes\Gengar.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\Imagenes\Grookey.png">
+      <PackagePath>Assets\Imagenes\Grookey.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\Imagenes\Lapras.png">
+      <PackagePath>Assets\Imagenes\Lapras.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\Imagenes\lucario.png">
+      <PackagePath>Assets\Imagenes\lucario.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\Imagenes\pip.png">
+      <PackagePath>Assets\Imagenes\pip.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\Imagenes\snorlax.png">
+      <PackagePath>Assets\Imagenes\snorlax.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\Imagenes\toxi.png">
+      <PackagePath>Assets\Imagenes\toxi.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\imgadri.png">
+      <PackagePath>Assets\imgadri.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\imgcarlos.png">
+      <PackagePath>Assets\imgcarlos.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\imgpardo.png">
+      <PackagePath>Assets\imgpardo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\logos.png">
+      <PackagePath>Assets\logos.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\multijugador.png">
+      <PackagePath>Assets\multijugador.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\pokeball.png">
+      <PackagePath>Assets\pokeball.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\UCLM-Logo.png">
+      <PackagePath>Assets\UCLM-Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\uclm.png">
+      <PackagePath>Assets\uclm.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\fondo_pokedex.png">
+      <PackagePath>Assets\fondo_pokedex.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\1fa78.png">
+      <PackagePath>Assets_Pokemon_iniciales\1fa78.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\arabn.png">
+      <PackagePath>Assets_Pokemon_iniciales\arabn.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\arañazoSan2.png">
+      <PackagePath>Assets_Pokemon_iniciales\arañazoSan2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\arañazoSangre.png">
+      <PackagePath>Assets_Pokemon_iniciales\arañazoSangre.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\baba.png">
+      <PackagePath>Assets_Pokemon_iniciales\baba.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\caida.png">
+      <PackagePath>Assets_Pokemon_iniciales\caida.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\cama.png">
+      <PackagePath>Assets_Pokemon_iniciales\cama.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\cartel-minimo-ilustracion-vector-arbol-coco_969863-6808.png">
+      <PackagePath>Assets_Pokemon_iniciales\cartel-minimo-ilustracion-vector-arbol-coco_969863-6808.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\corazon.png">
+      <PackagePath>Assets_Pokemon_iniciales\corazon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\energia.png">
+      <PackagePath>Assets_Pokemon_iniciales\energia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\heridas.png">
+      <PackagePath>Assets_Pokemon_iniciales\heridas.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\lapida.png">
+      <PackagePath>Assets_Pokemon_iniciales\lapida.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\manta.png">
+      <PackagePath>Assets_Pokemon_iniciales\manta.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\moraton.png">
+      <PackagePath>Assets_Pokemon_iniciales\moraton.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\moraton2.png">
+      <PackagePath>Assets_Pokemon_iniciales\moraton2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\ojosmuerto.png">
+      <PackagePath>Assets_Pokemon_iniciales\ojosmuerto.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\pocionA.png">
+      <PackagePath>Assets_Pokemon_iniciales\pocionA.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\pocionR.png">
+      <PackagePath>Assets_Pokemon_iniciales\pocionR.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\tierra.png">
+      <PackagePath>Assets_Pokemon_iniciales\tierra.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\tierrabn.png">
+      <PackagePath>Assets_Pokemon_iniciales\tierrabn.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\z.png">
+      <PackagePath>Assets_Pokemon_iniciales\z.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\z2b.png">
+      <PackagePath>Assets_Pokemon_iniciales\z2b.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\zb.png">
+      <PackagePath>Assets_Pokemon_iniciales\zb.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsCharizardASM\background.png">
+      <PackagePath>AssetsCharizardASM\background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsCharizardASM\background1.png">
+      <PackagePath>AssetsCharizardASM\background1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsCharizardASM\blue_potion.png">
+      <PackagePath>AssetsCharizardASM\blue_potion.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsCharizardASM\espiral.png">
+      <PackagePath>AssetsCharizardASM\espiral.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsCharizardASM\garra.png">
+      <PackagePath>AssetsCharizardASM\garra.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsCharizardASM\green_potion.png">
+      <PackagePath>AssetsCharizardASM\green_potion.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsCharizardASM\heart.png">
+      <PackagePath>AssetsCharizardASM\heart.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsCharizardASM\lanzallamas.png">
+      <PackagePath>AssetsCharizardASM\lanzallamas.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsCharizardASM\lanzallamas_azul.png">
+      <PackagePath>AssetsCharizardASM\lanzallamas_azul.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsCharizardASM\mano_mewing.png">
+      <PackagePath>AssetsCharizardASM\mano_mewing.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsCharizardASM\mano_mewing_black.png">
+      <PackagePath>AssetsCharizardASM\mano_mewing_black.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsCharizardASM\mewing.png">
+      <PackagePath>AssetsCharizardASM\mewing.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsCharizardASM\mewing_black.png">
+      <PackagePath>AssetsCharizardASM\mewing_black.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsCharizardASM\shield.png">
+      <PackagePath>AssetsCharizardASM\shield.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\Imagenes\Fondo.jpg">
+      <PackagePath>Assets+Toxicroack+incial\Imagenes\Fondo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\AssetsButterFreeACC\fondo1.jpg">
+      <PackagePath>AssetsButterFreeACC\AssetsButterFreeACC\fondo1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\fondo1.jpg">
+      <PackagePath>AssetsButterFreeACC\fondo1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\escenariopokemon.jpg">
+      <PackagePath>AssetsDragoniteCSD\escenariopokemon.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGengarJCC\z10o_buuk_210129.jpg">
+      <PackagePath>AssetsGengarJCC\z10o_buuk_210129.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGrookeyJGMP\imgFondo.jpg">
+      <PackagePath>AssetsGrookeyJGMP\imgFondo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\UI_Pokemon\forest.jpg">
+      <PackagePath>AssetsLaprasACE\UI_Pokemon\forest.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\UI_Pokemon\forest2.jpg">
+      <PackagePath>AssetsLaprasACE\UI_Pokemon\forest2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\esilogo.jpg">
+      <PackagePath>Assets\esilogo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\fondo_pokedex2.jpg">
+      <PackagePath>Assets\fondo_pokedex2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\qr_adri.jpg">
+      <PackagePath>Assets\qr_adri.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\qr_carlos.jpg">
+      <PackagePath>Assets\qr_carlos.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets\qr_pardo.jpg">
+      <PackagePath>Assets\qr_pardo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\arañazo.jpg">
+      <PackagePath>Assets_Pokemon_iniciales\arañazo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\cartoon-bunny-easy-to-use-without-gradients-or-other-effects-vector.jpg">
+      <PackagePath>Assets_Pokemon_iniciales\cartoon-bunny-easy-to-use-without-gradients-or-other-effects-vector.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\fondo.jpg">
+      <PackagePath>Assets_Pokemon_iniciales\fondo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsCharizardASM\charizard.jpg">
+      <PackagePath>AssetsCharizardASM\charizard.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\Muerte.mp3">
+      <PackagePath>Assets+Toxicroack+incial\Muerte.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\Sonidos\AtaqueDebil2.mp3">
+      <PackagePath>Assets+Toxicroack+incial\Sonidos\AtaqueDebil2.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\Sonidos\AtaqueFuerte.mp3">
+      <PackagePath>Assets+Toxicroack+incial\Sonidos\AtaqueFuerte.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\Sonidos\Bostezo.mp3">
+      <PackagePath>Assets+Toxicroack+incial\Sonidos\Bostezo.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\Sonidos\Herido.mp3">
+      <PackagePath>Assets+Toxicroack+incial\Sonidos\Herido.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\Sonidos\Muerte.mp3">
+      <PackagePath>Assets+Toxicroack+incial\Sonidos\Muerte.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets+Toxicroack+incial\Sonidos\Ronquido.mp3">
+      <PackagePath>Assets+Toxicroack+incial\Sonidos\Ronquido.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsArticunoACG\CabezazoRalentizado.mp3">
+      <PackagePath>AssetsArticunoACG\CabezazoRalentizado.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsArticunoACG\DerrotadoBien.mp3">
+      <PackagePath>AssetsArticunoACG\DerrotadoBien.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsArticunoACG\Escudo.mp3">
+      <PackagePath>AssetsArticunoACG\Escudo.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsArticunoACG\RayoHielo.mp3">
+      <PackagePath>AssetsArticunoACG\RayoHielo.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsArticunoACG\RecuperarVida.mp3">
+      <PackagePath>AssetsArticunoACG\RecuperarVida.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\AssetsButterFreeACC\escudo.mp3">
+      <PackagePath>AssetsButterFreeACC\AssetsButterFreeACC\escudo.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\AssetsButterFreeACC\muerte.mp3">
+      <PackagePath>AssetsButterFreeACC\AssetsButterFreeACC\muerte.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\AssetsButterFreeACC\tornado.mp3">
+      <PackagePath>AssetsButterFreeACC\AssetsButterFreeACC\tornado.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\escudo.mp3">
+      <PackagePath>AssetsButterFreeACC\escudo.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\muerte.mp3">
+      <PackagePath>AssetsButterFreeACC\muerte.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsButterFreeACC\tornado.mp3">
+      <PackagePath>AssetsButterFreeACC\tornado.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\Ataque.mp3">
+      <PackagePath>AssetsDragoniteCSD\Ataque.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\cansado.mp3">
+      <PackagePath>AssetsDragoniteCSD\cansado.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\CuraVida.mp3">
+      <PackagePath>AssetsDragoniteCSD\CuraVida.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\default.mp3">
+      <PackagePath>AssetsDragoniteCSD\default.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\Enfado.mp3">
+      <PackagePath>AssetsDragoniteCSD\Enfado.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\escudo.mp3">
+      <PackagePath>AssetsDragoniteCSD\escudo.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\herido.mp3">
+      <PackagePath>AssetsDragoniteCSD\herido.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\muertedef.mp3">
+      <PackagePath>AssetsDragoniteCSD\muertedef.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGrookeyJGMP\AtaqueDebil.mp3">
+      <PackagePath>AssetsGrookeyJGMP\AtaqueDebil.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGrookeyJGMP\AtaqueFuerte.mp3">
+      <PackagePath>AssetsGrookeyJGMP\AtaqueFuerte.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGrookeyJGMP\Derrotado.mp3">
+      <PackagePath>AssetsGrookeyJGMP\Derrotado.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGrookeyJGMP\Descanso.mp3">
+      <PackagePath>AssetsGrookeyJGMP\Descanso.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\Sounds\AtaqueDebil.mp3">
+      <PackagePath>AssetsLaprasACE\Sounds\AtaqueDebil.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\Sounds\AtaqueFuerte.mp3">
+      <PackagePath>AssetsLaprasACE\Sounds\AtaqueFuerte.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\Sounds\Cansado.mp3">
+      <PackagePath>AssetsLaprasACE\Sounds\Cansado.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\Sounds\Descanso.mp3">
+      <PackagePath>AssetsLaprasACE\Sounds\Descanso.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\Sounds\Escudo.mp3">
+      <PackagePath>AssetsLaprasACE\Sounds\Escudo.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\Sounds\lapras.mp3">
+      <PackagePath>AssetsLaprasACE\Sounds\lapras.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\Sounds\Muerte.mp3">
+      <PackagePath>AssetsLaprasACE\Sounds\Muerte.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\Sounds\PonerEscudo.mp3">
+      <PackagePath>AssetsLaprasACE\Sounds\PonerEscudo.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\Sounds\PowerDown.mp3">
+      <PackagePath>AssetsLaprasACE\Sounds\PowerDown.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\Sounds\PowerUp.mp3">
+      <PackagePath>AssetsLaprasACE\Sounds\PowerUp.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\Sounds\QuitarCansado.mp3">
+      <PackagePath>AssetsLaprasACE\Sounds\QuitarCansado.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLaprasACE\Sounds\QuitarEscudo.mp3">
+      <PackagePath>AssetsLaprasACE\Sounds\QuitarEscudo.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLucarioGAC\AuraSphere.mp3">
+      <PackagePath>AssetsLucarioGAC\AuraSphere.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLucarioGAC\Cansado.mp3">
+      <PackagePath>AssetsLucarioGAC\Cansado.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLucarioGAC\Derrotado.mp3">
+      <PackagePath>AssetsLucarioGAC\Derrotado.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLucarioGAC\Enfadado.mp3">
+      <PackagePath>AssetsLucarioGAC\Enfadado.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsLucarioGAC\Herrido.mp3">
+      <PackagePath>AssetsLucarioGAC\Herrido.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\sonido_cansado.mp3">
+      <PackagePath>AssetsPiplupMLTN\sonido_cansado.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\sonido_derrotado.mp3">
+      <PackagePath>AssetsPiplupMLTN\sonido_derrotado.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\sonido_descanso.mp3">
+      <PackagePath>AssetsPiplupMLTN\sonido_descanso.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\sonido_escudo.mp3">
+      <PackagePath>AssetsPiplupMLTN\sonido_escudo.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\sonido_frioPolar.mp3">
+      <PackagePath>AssetsPiplupMLTN\sonido_frioPolar.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\sonido_surf.mp3">
+      <PackagePath>AssetsPiplupMLTN\sonido_surf.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\aDormir.mp3">
+      <PackagePath>Assets_Pokemon_iniciales\aDormir.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\derrumbe.mp3">
+      <PackagePath>Assets_Pokemon_iniciales\derrumbe.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\escudo.mp3">
+      <PackagePath>Assets_Pokemon_iniciales\escudo.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\muerte.mp3">
+      <PackagePath>Assets_Pokemon_iniciales\muerte.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\roncar.mp3">
+      <PackagePath>Assets_Pokemon_iniciales\roncar.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\uñas.mp3">
+      <PackagePath>Assets_Pokemon_iniciales\uñas.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Assets_Pokemon_iniciales\vidaBaja.mp3">
+      <PackagePath>Assets_Pokemon_iniciales\vidaBaja.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsCharizardASM\audio\evolucion.mp3">
+      <PackagePath>AssetsCharizardASM\audio\evolucion.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsCharizardASM\audio\garra.mp3">
+      <PackagePath>AssetsCharizardASM\audio\garra.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsCharizardASM\audio\lanzallamas.mp3">
+      <PackagePath>AssetsCharizardASM\audio\lanzallamas.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsCharizardASM\audio\mewing.mp3">
+      <PackagePath>AssetsCharizardASM\audio\mewing.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsCharizardASM\audio\recuperado.mp3">
+      <PackagePath>AssetsCharizardASM\audio\recuperado.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\colazo.wav">
+      <PackagePath>AssetsDragoniteCSD\colazo.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsDragoniteCSD\explosion.wav">
+      <PackagePath>AssetsDragoniteCSD\explosion.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsGrookeyJGMP\Escudo.mp4">
+      <PackagePath>AssetsGrookeyJGMP\Escudo.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\AssetsPiplupMLTN\sonido_herir.m4a">
+      <PackagePath>AssetsPiplupMLTN\sonido_herir.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\NewFile1.txt">
+      <PackagePath>NewFile1.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\POKEDEX.xr.xml">
+      <PackagePath>POKEDEX.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Ajustes.xbf">
+      <PackagePath>Ajustes.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Articuno.xbf">
+      <PackagePath>Articuno.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\ArticunoPokedex.xbf">
+      <PackagePath>ArticunoPokedex.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\ButterFreeACC.xbf">
+      <PackagePath>ButterFreeACC.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\ButterFreePokedex.xbf">
+      <PackagePath>ButterFreePokedex.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Charizard.xbf">
+      <PackagePath>Charizard.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\CharizardPokedex.xbf">
+      <PackagePath>CharizardPokedex.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Combate.xbf">
+      <PackagePath>Combate.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\CombateIA.xbf">
+      <PackagePath>CombateIA.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\CombatePOK.xbf">
+      <PackagePath>CombatePOK.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Dragonite.xbf">
+      <PackagePath>Dragonite.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\DragonitePokedex.xbf">
+      <PackagePath>DragonitePokedex.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Garchomp.xbf">
+      <PackagePath>Garchomp.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\GarchompPokedex.xbf">
+      <PackagePath>GarchompPokedex.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Gengar.xbf">
+      <PackagePath>Gengar.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\GengarPokedex.xbf">
+      <PackagePath>GengarPokedex.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Grookey.xbf">
+      <PackagePath>Grookey.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\GrookeyPokedex.xbf">
+      <PackagePath>GrookeyPokedex.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Info.xbf">
+      <PackagePath>Info.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Lapras.xbf">
+      <PackagePath>Lapras.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\LaprasPokedex.xbf">
+      <PackagePath>LaprasPokedex.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Lucario.xbf">
+      <PackagePath>Lucario.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\LucarioPokedex.xbf">
+      <PackagePath>LucarioPokedex.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Piplup.xbf">
+      <PackagePath>Piplup.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\PipplupPokedex.xbf">
+      <PackagePath>PipplupPokedex.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Pokedex.xbf">
+      <PackagePath>Pokedex.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Principal.xbf">
+      <PackagePath>Principal.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Prueba.xbf">
+      <PackagePath>Prueba.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Seleccion.xbf">
+      <PackagePath>Seleccion.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Snorlax.xbf">
+      <PackagePath>Snorlax.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\SnorlaxPokedex.xbf">
+      <PackagePath>SnorlaxPokedex.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Toxicroack.xbf">
+      <PackagePath>Toxicroack.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\ToxycroacPokedex.xbf">
+      <PackagePath>ToxycroacPokedex.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.22621.0\\redist\Debug\x86\ucrtbased.dll">
+      <PackagePath>ucrtbased.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.22621.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\.nuget\packages\microsoft.ui.xaml\2.8.6\buildTransitive\..\lib\uap10.0\Microsoft.UI.Xaml.winmd">
+      <PackagePath>Microsoft.UI.Xaml.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usuario\Desktop\POKEDEX\POKEDEX\POKEDEX\bin\x86\Debug\Core\POKEDEX.exe">
+      <PackagePath>POKEDEX.exe</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\usuario\.nuget\packages\microsoft.ui.xaml\2.8.6\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.8.appx">
+      <Name>Microsoft.UI.Xaml.2.8</Name>
+      <Version>8.2310.30001.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.8, MinVersion = 8.2310.30001.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\usuario\.nuget\packages\microsoft.ui.xaml\2.8.6\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.8.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\usuario\.nuget\packages\microsoft.ui.xaml\2.8.6\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.8.appx">
+      <Name>Microsoft.UI.Xaml.2.8</Name>
+      <Version>8.2310.30001.0</Version>
+      <Architecture>Win32</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.8, MinVersion = 8.2310.30001.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\usuario\.nuget\packages\microsoft.ui.xaml\2.8.6\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.8.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\usuario\.nuget\packages\microsoft.ui.xaml\2.8.6\buildTransitive\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.8.appx">
+      <Name>Microsoft.UI.Xaml.2.8</Name>
+      <Version>8.2310.30001.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.8, MinVersion = 8.2310.30001.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\usuario\.nuget\packages\microsoft.ui.xaml\2.8.6\buildTransitive\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.8.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\usuario\.nuget\packages\microsoft.ui.xaml\2.8.6\buildTransitive\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.8.appx">
+      <Name>Microsoft.UI.Xaml.2.8</Name>
+      <Version>8.2310.30001.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.8, MinVersion = 8.2310.30001.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\usuario\.nuget\packages\microsoft.ui.xaml\2.8.6\buildTransitive\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.8.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\usuario\.nuget\packages\microsoft.ui.xaml\2.8.6\buildTransitive\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.8.appx">
+      <Name>Microsoft.UI.Xaml.2.8</Name>
+      <Version>8.2310.30001.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.8, MinVersion = 8.2310.30001.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\usuario\.nuget\packages\microsoft.ui.xaml\2.8.6\buildTransitive\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.8.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.31331.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.31331.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.31331.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.31331.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.31331.1</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.31331.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.31327.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.31327.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.31327.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.31327.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.31327.1</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.31327.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug.UWPDesktop</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug.UWPDesktop, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug.UWPDesktop</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug.UWPDesktop, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug.UWPDesktop</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug.UWPDesktop, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

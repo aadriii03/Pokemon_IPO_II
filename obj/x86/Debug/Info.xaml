@@ -1,0 +1,226 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="POKEDEX.Info"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="using:POKEDEX"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    x:Name="Info1"
+    Width="1500"
+    Height="802"
+    HorizontalAlignment="Left"
+    VerticalAlignment="Top"
+    Background="Black"
+    Foreground="{x:Null}"
+    mc:Ignorable="d">
+
+    <Grid
+        FocusVisualPrimaryBrush="{x:Null}"
+        FocusVisualSecondaryBrush="{x:Null}" Background="#FFCCCCCC">
+        <Border x:ConnectionId='2'
+            x:Name="BordeAdri"
+            Width="182"
+            Margin="159,163,0,449"
+            HorizontalAlignment="Left"
+            BorderBrush="Black"
+            BorderThickness="2"
+            CornerRadius="50">
+            <Image x:ConnectionId='13'
+                x:Name="img_adri"
+                Height="204"
+                Margin="-4,-21,2,0"
+                VerticalAlignment="Top"
+                Source="/Assets/fotoadri.png" />
+        </Border>
+        <Border x:ConnectionId='3'
+            x:Name="BordePardo"
+            Width="182"
+            Margin="644,158,0,449"
+            HorizontalAlignment="Left"
+            BorderBrush="Black"
+            BorderThickness="2"
+            CornerRadius="50">
+            <Image x:ConnectionId='12'
+                x:Name="img_adri1"
+                Height="196"
+                Margin="-5,0,-10,0"
+                VerticalAlignment="Center"
+                Source="/Assets/imgpardo.png" />
+        </Border>
+        <Border x:ConnectionId='4'
+            x:Name="BordeAdri_Copiar"
+            Width="176"
+            Margin="1120,163,0,449"
+            HorizontalAlignment="Left"
+            BorderBrush="Black"
+            BorderThickness="2"
+            CornerRadius="50">
+            <Image x:ConnectionId='11'
+                x:Name="img_adri2"
+                Height="205"
+                Margin="-1,-2,-4,0"
+                VerticalAlignment="Top"
+                Source="/Assets/imgcarlos.png" />
+        </Border>
+        <RichTextBlock x:ConnectionId='5'
+            x:Name="TextoAdri"
+            Width="337"
+            Height="219"
+            Margin="116,395,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Foreground="Black"
+            SelectionHighlightColor="#FFCD11FD">
+            <Paragraph TextAlignment="Justify">
+                <Run
+                    FontSize="18"
+                    FontWeight="Bold"
+                    Text="Adrian Caballero Camacho" />
+            </Paragraph>
+            <Paragraph TextAlignment="Justify">
+                <Run Text="Es un talentoso desarrollador frontend con una pasión por crear experiencias de usuario impresionantes." />
+            </Paragraph>
+            <Paragraph TextAlignment="Justify">
+                <Run Text="A lo largo de sus " />
+                <Run
+                    FontWeight="Bold"
+                    Foreground="DarkBlue"
+                    Text="21 años" />
+                <Run Text=" de edad, su enfoque en el diseño centrado en el usuario y su capacidad para trabajar en equipo lo destacan como un valioso colaborador en cualquier proyecto de desarrollo de aplicaciones." />
+
+            </Paragraph>
+            <Paragraph>
+                <Run Text="Puedes contactar a Adrian en " />
+                <Hyperlink Foreground="#FF9227BA" NavigateUri="mailto:adrian.caballero2@alu.uclm.es">adrian.caballero2@alu.uclm.es</Hyperlink>
+                <Run Text=" para discutir oportunidades profesionales o colaboraciones." />
+            </Paragraph>
+        </RichTextBlock>
+        <RichTextBlock x:ConnectionId='6'
+            x:Name="TextoCarlos"
+            Width="355"
+            Height="217"
+            Margin="1030,395,0,0"
+            HorizontalAlignment="Left"
+            
+            VerticalAlignment="Top"
+            Foreground="Black"
+            SelectionHighlightColor="#FFCD11FD">
+            <Paragraph TextAlignment="Justify">
+                <Run
+                    FontSize="18"
+                    FontWeight="Bold"
+                    Text="Carlos Sánchez Díaz" />
+            </Paragraph>
+            <Paragraph TextAlignment="Justify">
+                <Run Text="Es un apasionado desarrollador Full Stack, con una destacada habilidad para trabajar en diversas tecnologías tanto en el frontend como en el backend." />
+            </Paragraph>
+            <Paragraph TextAlignment="Justify">
+                <Run Text="A sus " />
+                <Run
+                    FontWeight="Bold"
+                    Foreground="DarkBlue"
+                    Text="21 años" />
+                <Run Text=" de edad, Carlos es conocido por su capacidad para inspirar a su equipo y fomentar un ambiente colaborativo y creativo, además de su experiencia técnica." />
+
+            </Paragraph>
+
+
+            <Paragraph TextAlignment="Justify">
+                <Run Text="Si deseas ponerte en contacto con Carlos para oportunidades profesionales o colaboraciones, puedes escribir a " />
+                <Hyperlink Foreground="#FF9227BA" NavigateUri="mailto:carlos.sanchez74@alu.uclm.es">carlos.sanchez74@alu.uclm.es</Hyperlink>
+                <Run Text="." />
+            </Paragraph>
+        </RichTextBlock>
+        <RichTextBlock x:ConnectionId='7'
+            x:Name="TextoPardo"
+            Width="340"
+            Height="220"
+            Margin="0,395,0,0"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top"
+            Foreground="Black"
+            SelectionHighlightColor="#FFCD11FD">
+            <Paragraph TextAlignment="Justify">
+                <Run
+                    FontSize="18"
+                    FontWeight="Bold"
+                    Text="Javier Pardo González" />
+            </Paragraph>
+            <Paragraph TextAlignment="Justify">
+                <Run Text="Javier Pardo González es un talentoso desarrollador backend, reconocido por su dedicación y meticulosidad en el trabajo." />
+            </Paragraph>
+            <Paragraph TextAlignment="Justify">
+                <Run Text="Con apenas " />
+                <Run
+                    FontWeight="Bold"
+                    Foreground="DarkBlue"
+                    Text="20 años" />
+                <Run Text=" de edad, Javier es conocido por su enfoque meticuloso en la escritura de código limpio y eficiente, asegurando la calidad y la eficiencia en cada proyecto en el que participa." />
+            </Paragraph>
+
+            <Paragraph TextAlignment="Justify">
+                <Run Text="Para contactar a Javier para oportunidades profesionales o colaboraciones, puedes enviar un correo a " />
+                <Hyperlink Foreground="#FF9227BA" NavigateUri="mailto:javier.pardo4@alu.uclm.es">javier.pardo4@alu.uclm.es</Hyperlink>
+                <Run Text="." />
+            </Paragraph>
+        </RichTextBlock>
+        <Image x:ConnectionId='8'
+            x:Name="qr_carlos"
+            Width="149"
+            Height="149"
+            Margin="1142,627,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            d:LayoutRounding="Auto"
+            RenderTransformOrigin="0.5,0.5"
+            Source="/Assets/qr_carlos.jpg"
+            UseLayoutRounding="False">
+            <Image.RenderTransform>
+                <CompositeTransform Rotation="-0.166" />
+            </Image.RenderTransform>
+        </Image>
+        <Image x:ConnectionId='9'
+            x:Name="qr_adri"
+            Width="152"
+            Height="150"
+            Margin="166,629,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            d:LayoutRounding="Auto"
+            RenderTransformOrigin="0.5,0.5"
+            Source="/Assets/qr_adri.jpg"
+            UseLayoutRounding="False">
+            <Image.RenderTransform>
+                <CompositeTransform Rotation="-0.166" />
+            </Image.RenderTransform>
+        </Image>
+        <Image x:ConnectionId='10'
+            x:Name="qr_pardo"
+            Width="147"
+            Height="148"
+            Margin="671,629,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            d:LayoutRounding="Auto"
+            RenderTransformOrigin="0.5,0.5"
+            Source="/Assets/qr_pardo.jpg"
+            UseLayoutRounding="False">
+            <Image.RenderTransform>
+                <CompositeTransform Rotation="-0.166" />
+            </Image.RenderTransform>
+        </Image>
+        <TextBlock
+            Margin="0,20,0,0"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top"
+            FocusVisualPrimaryBrush="#E4FFFFFF"
+            FontSize="72"
+            FontWeight="Bold"
+            Foreground="Black"
+            Text="DESARROLLADORES" />
+
+
+
+    </Grid>
+</Page>
+

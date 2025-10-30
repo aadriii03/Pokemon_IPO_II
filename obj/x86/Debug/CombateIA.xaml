@@ -1,0 +1,255 @@
+﻿<Page
+    x:Class="POKEDEX.CombateIA"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:POKEDEX"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Assets/fondo_pokedex2.jpg" />
+        </Grid.Background>
+
+        <Rectangle
+            Width="1294"
+            Height="330"
+            Margin="78,52,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Fill="#330845E3"
+            Stroke="Black" />
+
+        <Rectangle
+            Width="1294"
+            Height="330"
+            Margin="78,418,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Fill="#33E30808"
+            Stroke="Black" />
+
+        <Rectangle
+            Margin="864,360,438,-43"
+            d:LayoutRounding="Auto"
+            Fill="#CA000000"
+            RenderTransformOrigin="0.5,0.5"
+            Stroke="Black"
+            UseLayoutRounding="False">
+            <Rectangle.RenderTransform>
+                <CompositeTransform Rotation="90.347" />
+            </Rectangle.RenderTransform>
+        </Rectangle>
+
+        <Rectangle
+            Margin="363,-33,951,341"
+            d:LayoutRounding="Auto"
+            Fill="#CA000000"
+            RenderTransformOrigin="0.5,0.5"
+            Stroke="Black"
+            UseLayoutRounding="False">
+            <Rectangle.RenderTransform>
+                <CompositeTransform Rotation="90.347" />
+            </Rectangle.RenderTransform>
+        </Rectangle>
+
+        <Button x:ConnectionId='2'
+            x:Name="BtnAtaqueDebilDJUG2"
+            Width="137"
+            Height="37"
+            Margin="249,146,0,0"
+            VerticalAlignment="Top"
+            Background="#B3C4E40A"
+                                             
+            Content="Ataque Débil"
+            FontSize="18"
+            RelativePanel.Below="TextBlockDescripcion" />
+
+        <Button x:ConnectionId='3'
+            x:Name="BtnAtaqueDebilDJUG1"
+            Width="137"
+            Height="37"
+            Margin="761,539,0,0"
+            VerticalAlignment="Top"
+            Background="#B3C4E40A"
+                                             
+            Content="Ataque Débil"
+            FontSize="18"
+            RelativePanel.Below="TextBlockDescripcion" />
+
+        <Button x:ConnectionId='4'
+            x:Name="BtnAtaqueFuerteDJUG2"
+            Margin="443,146,0,0"
+            VerticalAlignment="Top"
+            Background="#B38752FF"
+                                              
+            Content="Ataque Fuerte"
+            FontSize="18"
+            RelativePanel.Below="TextBlockDescripcion"
+            RelativePanel.RightOf="BtnAtaqueDebilD" />
+
+        <Button x:ConnectionId='5'
+            x:Name="BtnAtaqueFuerteDJUG1"
+            Margin="942,539,0,0"
+            VerticalAlignment="Top"
+            Background="#B38752FF"
+                                              
+            Content="Ataque Fuerte"
+            FontSize="18"
+            RelativePanel.Below="TextBlockDescripcion"
+            RelativePanel.RightOf="BtnAtaqueDebilD" />
+
+        <Button x:ConnectionId='6'
+            x:Name="BtnDescansoDJUG2"
+            Width="137"
+            Margin="248,227,0,0"
+            VerticalAlignment="Top"
+            Background="#B3EA49D5"
+                                          
+            Content="Descanso"
+            FontSize="18"
+            RelativePanel.Below="BtnAtaqueDebilD" />
+
+        <Button x:ConnectionId='7'
+            x:Name="BtnDescansoDJUG1"
+            Width="137"
+            Margin="761,625,0,0"
+            VerticalAlignment="Top"
+            Background="#B3EA49D5"
+                                          
+            Content="Descanso"
+            FontSize="18"
+            RelativePanel.Below="BtnAtaqueDebilD" />
+
+        <Button x:ConnectionId='8' x:Name="Pocion_energia_JUG1"
+                Width="59"
+                Height="62"
+                Margin="1128,613,0,0"
+                VerticalAlignment="Top"
+                                                 >
+            <Button.Background>
+                <ImageBrush ImageSource="/AssetsDragoniteCSD/pocionstamina.png" Stretch="Uniform"/>
+            </Button.Background>
+            <Image Source="/AssetsDragoniteCSD/pocionstamina.png.png" Stretch="Uniform" Margin="-11,-10,-12,-11"/>
+        </Button>
+
+        <Button x:ConnectionId='9'
+            x:Name="BtnEscudoDJUG1"
+            Width="137"
+            Height="37"
+            Margin="942,626,0,0"
+            VerticalAlignment="Top"
+            Background="#B335E2D6"
+                                        
+            Content="Escudo"
+            FontSize="18"
+            RelativePanel.Below="BtnAtaqueFuerteD"
+            RelativePanel.RightOf="BtnDescansoD" />
+        <Button x:ConnectionId='10'
+            x:Name="BtnEscudoDJUG2"
+            Width="137"
+            Height="37"
+            Margin="443,227,0,0"
+            VerticalAlignment="Top"
+            Background="#B335E2D6"
+                                        
+            Content="Escudo"
+            FontSize="18"
+            RelativePanel.Below="BtnAtaqueFuerteD"
+            RelativePanel.RightOf="BtnDescansoD" />
+
+        <Button x:ConnectionId='11' x:Name="Pocion_vida_JUG1"
+                Width="59"
+                Height="62"
+                Margin="1123,527,0,0"
+                VerticalAlignment="Top"
+                                        >
+            <Button.Background>
+                <ImageBrush ImageSource="/AssetsDragoniteCSD/pocionvida.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+
+        <TextBlock x:ConnectionId='12'
+            x:Name="TextBlock1"
+            Margin="651,52,717,907"
+            FontSize="24"
+            FontWeight="Bold"
+            RelativePanel.RightOf="Image"
+            Text="Jugador 2" />
+
+        <TextBlock x:ConnectionId='13'
+            x:Name="TextBlock1_Copiar"
+            Margin="651,418,717,350"
+            FontSize="24"
+            FontWeight="Bold"
+            RelativePanel.RightOf="Image"
+            Text="Jugador 1" />
+
+        <Rectangle
+            Width="227"
+            Height="60"
+            Margin="1237,24,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Fill="#B2000000"
+            FocusVisualPrimaryBrush="#E4110101"
+            Stroke="Black" />
+
+        <TextBox x:ConnectionId='14'
+            x:Name="txtturno"
+            Width="204"
+            Height="56"
+            Margin="1237,28,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Background="{x:Null}"
+            BorderBrush="{x:Null}"
+            FontSize="18"
+            IsReadOnly="True"
+            Text="Turno de: "
+            TextWrapping="Wrap" Foreground="#E4FFFFFF" />
+
+        <Grid x:ConnectionId='15'
+            x:Name="Jugador1Control"
+            Width="434"
+            Height="273"
+            Margin="146,450,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top" />
+
+        <Grid x:ConnectionId='16'
+            x:Name="Jugador2Control"
+            Width="502"
+            Height="270"
+            Margin="837,75,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top" />
+        
+        <Button x:ConnectionId='17' x:Name="Pocion_energia_JUG2"
+            Width="59"
+            Height="62"
+            Margin="641,217,0,0"
+            VerticalAlignment="Top">
+            
+            <Button.Background>
+                <ImageBrush ImageSource="/AssetsDragoniteCSD/pocionstamina.png" Stretch="Uniform"/>
+            </Button.Background>
+            <Image Source="/AssetsDragoniteCSD/pocionstamina.png.png" Stretch="Uniform" Margin="-11,-10,-12,-11"/>
+        </Button>
+        
+        <Button x:ConnectionId='18' x:Name="Pocion_vida_JUG2"
+            Width="59"
+            Height="62"
+            Margin="636,131,0,0"
+            VerticalAlignment="Top">
+            
+            <Button.Background>
+                <ImageBrush ImageSource="/AssetsDragoniteCSD/pocionvida.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</Page>
+

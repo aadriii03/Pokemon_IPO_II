@@ -1,0 +1,164 @@
+﻿<Page
+    x:Class="POKEDEX.Seleccion"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Height="800"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+    mc:Ignorable="d">
+
+    <Grid x:ConnectionId='2' x:Name="GridCombate">
+        <Grid.Background>
+            <ImageBrush ImageSource="/Assets/fondo_pokedex.png" />
+        </Grid.Background>
+
+        <TextBlock
+            Margin="85,596,1305,154"
+            FontSize="24"
+            Text="Jugador1: "
+            TextWrapping="Wrap" />
+
+        <GridView x:ConnectionId='3' x:Name="GridViewCombate"                                                     Margin="0,60,0,0">
+            <GridView.ItemContainerStyle>
+                <Style TargetType="GridViewItem">
+                    <Setter Property="Margin" Value="50,0,23,90" />
+                </Style>
+            </GridView.ItemContainerStyle>
+            
+            <Image x:ConnectionId='7'
+                x:Name="Dragonite"
+                Width="172"
+                Height="178"
+                Source="/Assets/Imagenes/dragonite.png" 
+                                                      
+                                                   />
+            
+            <Image x:ConnectionId='8'
+                x:Name="Toxicroack"
+                Width="152"
+                Height="158"
+                Source="/Assets/Imagenes/toxi.png"
+                                                      
+                                                   />
+            
+            <Image x:ConnectionId='9'
+                x:Name="Butterfree"
+                Width="162"
+                Height="154"
+                Source="/Assets/Imagenes/butterfreeP.png"
+                                                      
+                                                   />
+            
+            <Image x:ConnectionId='10'
+                x:Name="Charizard"
+                Width="162"
+                Height="150"
+                Source="/Assets/Imagenes/charizard.png"
+                                                      
+                                                   />
+            <Image x:ConnectionId='11'
+                x:Name="Lucario"
+                Width="150"
+                Height="140"
+                Source="/Assets/Imagenes/lucario.png"
+                                                      
+                                                   />
+            
+            <Image x:ConnectionId='12'
+                x:Name="Snorlax"
+                Width="150"
+                Height="140"
+                Source="/Assets/Imagenes/snorlax.png"
+                                                      
+                                                   />
+            
+            <Image x:ConnectionId='13'
+                x:Name="Garchomp"
+                Width="150"
+                Height="140"
+                Source="/Assets/Imagenes/Garchomp.png" 
+                                                      
+                                                   />
+            
+            <Image x:ConnectionId='14'
+                x:Name="Piplup"
+                Width="150"
+                Height="140"
+                Source="/Assets/Imagenes/pip.png" 
+                                                      
+                                                   />
+            
+            <Image x:ConnectionId='15'
+                x:Name="Articuno"
+                Width="150"
+                Height="140"
+                Source="/Assets/Imagenes/articuno.png"
+                                                      
+                                                   />
+            
+            <Image x:ConnectionId='16'
+                x:Name="Lapras"
+                Width="150"
+                Height="140"
+                Source="/Assets/Imagenes/Lapras.png"
+                                                      
+                                                   />
+            
+            <Image x:ConnectionId='17'
+                x:Name="Gengar"
+                Width="150"
+                Height="140"
+                Source="/Assets/Imagenes/Gengar.png"
+                                                      
+                                                   />
+            
+            <Image x:ConnectionId='18'
+                x:Name="Grookey"
+                Width="150"
+                Height="140"
+                Source="/Assets/Imagenes/Grookey.png"
+                                                      
+                                                   />
+            
+        </GridView>
+        <Border
+            Margin="1171,634,169,101"
+            BorderBrush="Black"
+            BorderThickness="3"
+            RenderTransformOrigin="0.5,0.5">
+            <Border.RenderTransform>
+                <CompositeTransform ScaleY="1" />
+            </Border.RenderTransform>
+            <Button x:ConnectionId='6'
+                Width="201"
+                Height="65"
+                HorizontalAlignment="Center"
+                Background="#AA579CC0"
+                                    
+                Content="ALEATORIO"
+                RenderTransformOrigin="0.486,0.446" FontWeight="Bold" FontSize="16" />
+        </Border>
+        <TextBlock
+            Margin="260,596,1130,154"
+            FontSize="24"
+            Text="Jugador2: "
+            TextWrapping="Wrap" />
+        <Image x:ConnectionId='4'
+            x:Name="imgJUG1"
+            Width="140"
+            Height="133"
+            Margin="62,634,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top" />
+        <Image x:ConnectionId='5'
+            x:Name="imgJUG2"
+            Width="140"
+            Height="133"
+            Margin="241,628,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top" />
+
+    </Grid>
+</Page>
+

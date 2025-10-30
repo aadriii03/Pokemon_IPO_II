@@ -1,0 +1,100 @@
+﻿<Page
+    x:Class="POKEDEX.Ajustes"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:Custom="using:Microsoft.UI.Xaml.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="using:POKEDEX"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Height="800"
+    VerticalAlignment="Top"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+    mc:Ignorable="d">
+
+    <Grid x:ConnectionId='2' x:Name="GridAjustes">
+        <TextBlock x:ConnectionId='3' x:Name="iconobrillo"
+            Margin="184,280,1199,411"
+            FontFamily="Segoe MDL2 Assets"
+            FontSize="120"
+            Text="&#xE706;" />
+        <TextBlock x:ConnectionId='4' x:Name="iconolibro"
+            Margin="690,280,690,398"
+            FontFamily="Segoe MDL2 Assets"
+            FontSize="120"
+            Text="&#xE736;" />
+        
+        <TextBlock x:ConnectionId='5' x:Name="iconolinterna"
+            Margin="1203,280,177,398"
+            FontFamily="Segoe MDL2 Assets"
+            FontSize="120"
+            Text="&#xE754;" />
+        
+        <ToggleSwitch x:ConnectionId='6'
+            x:Name="ModoOscuro"
+            Width="117"
+            Height="67"
+            Margin="1203,430,0,0"
+            VerticalAlignment="Top"
+            Header="Modo Claro" />
+        
+        <ToggleSwitch x:ConnectionId='7'
+            x:Name="Idioma"
+            Width="117"
+            Height="67"
+            Margin="691,430,0,0"
+            VerticalAlignment="Top"
+            Header="Idioma"
+            OffContent="Español"
+            OnContent="Inglés" />
+
+        <Slider x:ConnectionId='8' x:Name="brillo"
+            Width="289"
+            Height="34"
+            Margin="100,462,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Foreground="#FFB212D9"
+            Minimum="0"
+            Maximum="100"
+            />
+
+        <TextBlock x:ConnectionId='9' x:Name="brilloabajo"
+            Margin="229,439,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Text="Brillo"
+            TextWrapping="Wrap" />
+        <TextBlock x:ConnectionId='10' x:Name="txtajustes"
+            Width="390"
+            Height="144"
+            Margin="558,37,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            FontFamily="Gill Sans Nova"
+            FontSize="110"
+            Text="AJUSTES "
+            TextWrapping="Wrap" />
+        
+        <TextBlock x:ConnectionId='11' x:Name="txtmodoclaro"
+            Margin="622,199,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Text="Modo Claro/Oscuro"
+            TextWrapping="Wrap" Visibility="Collapsed" />
+        <TextBlock x:ConnectionId='12' x:Name="txtidioma"
+            Width="56"
+            Height="21"
+            Margin="657,203,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Text="Idioma"
+            TextWrapping="Wrap" Visibility="Collapsed" />
+        <TextBlock x:ConnectionId='13' x:Name="txtbrilloarriba"
+            Margin="667,206,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Text="Brillo"
+            TextWrapping="Wrap" Visibility="Collapsed" />
+    </Grid>
+</Page>
+
